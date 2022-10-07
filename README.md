@@ -68,13 +68,7 @@ contract HelloWorld {
 * Handy reference sheet: [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html) 
 * Overall style guide: [Solidity Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
 * Solidity quick guide: [Learn Solidity in Y minutes](https://learnxinyminutes.com/docs/solidity/)
-* Typescript quick guide: [Learn Typescript in Y minutes](https://learnxinyminutes.com/docs/typescript/)
 
 # Homework
 * Create Github Issues with your questions about this lesson
 * Read the references
-
-# Weekend Project
-* Form groups of 3 to 5 students
-* Interact with “HelloWorld.sol” within your group to change message strings and change owners
-* Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed
